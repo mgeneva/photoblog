@@ -3,9 +3,9 @@ title: "New Mexico"
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
-link: https://github.com
+  - USA
+  - Sister
+link: https://taospueblo.com/
 ---
 
 Page under construction
