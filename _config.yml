@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "MGENEVA"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Most days, you’ll find me at home :)"
+  avatar : "/assets/images/First-Bio-Pic2.jpg"
+  bio    : "Most days, you’ll find me at home, curled with a cup of tea."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
