@@ -1,5 +1,5 @@
 ---
-title: "My Trip to Galapagos"
+title: "Galapagos"
 categories:
   - Blog
 tags:
