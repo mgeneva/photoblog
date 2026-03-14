@@ -16,7 +16,7 @@ When we arrived on the main island, Santa Cruz, the first thing we did was visit
 
 The next day we joined our group tour at the dock and quickly announced to the guide and the group, “Just to let you know, we’re not swimming.” Everyone’s faces dropped. They looked at us in disbelief. The guide then urged us to change our mind. He explained that we could wear full wetsuits, that he could teach us how to snorkel, and that we won’t be able to see many of the animals if we stayed out of the water. That last argument made us hesitate.
 
-![Floreana Island]({{ "" | relative_url }}/assets/images/Galapagos1.jpg)
+![Floreana Island]({{ "" | relative_url }}/assets/images/Galapagos1.jpg){: .align-left}
 
 In the end, we decided to give it a try and it turned out to be one of the best decisions of the trip. Snorkeling was easier and more fun than we had imagined, and the experience was unforgettable. Seeing the tortoises and other marine life underwater was incredible. My sister even had a memorable moment when a curious sea lion spiraled down through the water and came face to face with her.
 
