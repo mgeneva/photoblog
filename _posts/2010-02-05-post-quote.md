@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "My Trip to Galapagos"
 categories:
   - Blog
 tags:
