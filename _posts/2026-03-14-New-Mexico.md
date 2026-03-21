@@ -10,10 +10,10 @@ link: https://taospueblo.com/
 ---
 
 <figure>
-  <a href="/assets/images/NewMexico1.jpg" class="image-popup" title="Bandelier">
-    <img src="/assets/images/NewMexico1.jpg" alt="Bandelier">
+  <a href="![Bandelier]({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" class="image-popup" title="Bandelier">
+    <img src="![Bandelier]({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" alt="Bandelier">
   </a>
-  <figcaption>Bandelier.</figcaption>
+  <figcaption>Bandelier</figcaption>
 </figure>
 
 I wanted to visit New Mexico, but I was nervous about driving. Because of my sister’s love of cacti, I was determined to bring her there with me.
