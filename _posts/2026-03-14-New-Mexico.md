@@ -20,15 +20,15 @@ In the end, driving there felt surprisingly comfortable. Something about the pla
 Driving the High Road to Taos became one of the highlights of the trip. The landscape was beautiful, and to this day I still hold onto the happy memory of driving my sister along that road and the sense of freedom it gave me.
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-3.jpg
+  - url: /assets/images/NewMexico3.jpg
     image_path: /assets/images/NewMexico3.jpg
     alt: "Lourdes of America"
     title: "El Santuario de Chimayó"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
+  - url: /assets/images/NewMexico4.jpg
     image_path: /assets/images/NewMexico4.jpg
     alt: "Taos Pueblo"
     title: "Taos Pueblo"
-  - url: /assets/images/unsplash-gallery-image-5.jpg
+  - url: /assets/images/NewMexico5.jpg
     image_path: /assets/images/NewMexico5.jpg
     alt: "High Road to Taos"
     title: "View from High Road to Taos"
