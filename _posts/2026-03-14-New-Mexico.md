@@ -17,8 +17,8 @@ gallery:
     image_path: /assets/images/NewMexico4.jpg
     alt: "Taos Pueblo"
     title: "Taos Pueblo"
-  - url: /assets/images/NewMexico5.jpg
-    image_path: /assets/images/NewMexico5.jpg
+  - url: /assets/images/NewMexico5.JPG
+    image_path: /assets/images/NewMexico5.JPG
     alt: "High Road to Taos"
     title: "View from High Road to Taos"
 ---
