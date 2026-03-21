@@ -8,13 +8,6 @@ tags:
   - Sister
 link: https://taospueblo.com/
 
-<figure>
-  <a href="({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" class="image-popup" title="Bandelier.">
-    <img src="({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" alt="Bandelier">
-  </a>
-  <figcaption>Bandelier.</figcaption>
-</figure>
-
 gallery:
   - url: /assets/images/NewMexico3.jpg
     image_path: /assets/images/NewMexico3.jpg
@@ -30,7 +23,7 @@ gallery:
     title: "View from High Road to Taos"
 ---
 
-{% include figure popup=true image_path="/assets/images/NewMexico1.jpg" alt="Bandelier" caption="Bandelier" %}
+{% include figure popup=true image_path="({{ "" | relative_url }}/assets/images/NewMexico1.JPG)" alt="Bandelier" caption="Bandelier" %}
 
 I wanted to visit New Mexico, but I was nervous about driving. Because of my sister’s love of cacti, I was determined to bring her there with me.
 I planned the trip carefully so that I would never have to drive more than two hours in a day, and we even booked a backup hotel in Santa Fe in case I didn’t feel brave enough to drive beyond Santa Fe.
