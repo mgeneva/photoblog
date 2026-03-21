@@ -10,8 +10,8 @@ link: https://taospueblo.com/
 ---
 
 <figure>
-  <a href="![Bandelier]({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" class="image-popup" title="Bandelier">
-    <img src="![Bandelier]({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" alt="Bandelier">
+  <a href="({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" class="image-popup" title="Bandelier">
+    <img src="({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" alt="Bandelier">
   </a>
   <figcaption>Bandelier</figcaption>
 </figure>
