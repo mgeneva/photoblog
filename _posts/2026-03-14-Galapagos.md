@@ -24,5 +24,5 @@ A few days later, we booked another snorkeling trip on Isabela Island which was 
 
 Looking back, I’m so glad we made the trip and that we went snorkeling. Even now, thinking about the Galápagos always makes me smile.
 
-![Tortoise]({{ "" | relative_url }}/assets/images/Galapagos2.jpg)
+![Los Tuneles]({{ "" | relative_url }}/assets/images/Galapagos2.png)
 
