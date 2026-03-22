@@ -1,6 +1,6 @@
 ---
 title: "New Mexico"
-date: 2026-03-21T7:34:30-04:00
+date: 2026-03-22T7:34:30-04:00
 categories:
   - Blog
 tags:
@@ -21,7 +21,6 @@ gallery:
     alt: "High Road to Taos"
     title: "View from High Road to Taos"
 ---
-
 <figure>
   <a href="{{ "" | relative_url }}/assets/images/NewMexico1.jpg" class="image-popup" title="Bandelier National Monument">
     <img src="{{ "" | relative_url }}/assets/images/NewMexico1.jpg" alt="Bandelier">
