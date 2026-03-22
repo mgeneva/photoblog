@@ -24,7 +24,7 @@ gallery:
 
 <figure>
   <a href="({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" class="image-popup" title="Bandelier National Monument">
-    <img src=({{ "" | relative_url }}/assets/images/NewMexico1.jpg) alt="Bandelier">
+    <img src="({{ "" | relative_url }}/assets/images/NewMexico1.jpg)" alt="Bandelier">
   </a>
   <figcaption>Bandelier National Monument</figcaption>
 </figure>
