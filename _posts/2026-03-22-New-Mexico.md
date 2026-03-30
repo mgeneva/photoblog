@@ -5,7 +5,6 @@ categories:
 tags:
   - USA
   - Sister
-
 gallery:
   - url: /assets/images/NewMexico3.jpg
     image_path: /assets/images/NewMexico3.jpg
@@ -19,6 +18,8 @@ gallery:
     image_path: /assets/images/NewMexico5.jpg
     alt: "High Road to Taos"
     title: "View from High Road to Taos"
+header:
+  image_path: /assets/images/NewMexico3.jpg
 ---
 <figure>
   <a href="{{ "" | relative_url }}/assets/images/NewMexico1.jpg" class="image-popup" title="Bandelier National Monument">
