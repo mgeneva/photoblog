@@ -17,7 +17,7 @@ gallery:
     alt: "Shirakawa"
 ---
 
-We planned to visit Shirakawa during our December/January trip to Japan, ever since I cam across a Bing wallpaper featuring the village.
+We planned to visit Shirakawa during our December/January trip to Japan, ever since I came across a Bing wallpaper featuring the village.
 
 However, the day before we were heading to Takayama, we ran into a setback: all the reservable day-trip buses were fully booked. We were disappointed, knowing that winter is the only time we could see the village covered in snow, and we regretted not booking the tickets earlier.
 
